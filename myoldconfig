@@ -1,0 +1,10 @@
+8,9c8,9
+< static char *font = "Ubuntu Mono-14:antialias=true:autohint=true";
+< static int borderpx = 1;
+---
+> static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
+> static int borderpx = 2;
+74c74
+< static int bellvolume = 50;
+---
+> static int bellvolume = 0;
